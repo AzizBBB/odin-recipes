@@ -1,2 +1,2 @@
 # odin-recipes
-My favorite Recipes
+My favorite Recipes using html and css
